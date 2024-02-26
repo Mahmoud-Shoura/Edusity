@@ -1,6 +1,7 @@
 // import React from "react";
 import About from "./Components/About/About";
 import Campus from "./Components/Campus/Campus";
+import Contact from "./Components/Contact/Contact";
 import Hero from "./Components/Hero/Hero";
 import Navbar from "./Components/Navbar/Navbar";
 import Programs from "./Components/Programs/Programs";
@@ -20,6 +21,8 @@ const App = () => {
         <Campus />
         <Title subTitle="TESTIMONIALS" title="What Student Says" />
         <Testimonials />
+        <Title subTitle="Contact Us" title="Get in Touch" />
+        <Contact />
       </div>
     </div>
   );

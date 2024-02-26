@@ -38,3 +38,8 @@ a {
   margin-left: 10px;
   padding-top: 4px;
 }
+
+.btn.dark-btn {
+  background: #212ea0;
+  color: #fff;
+}

@@ -17,7 +17,7 @@
     font-size: 25px;
     display: flex;
     align-items: center;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .contact-col h3 img {
@@ -28,11 +28,11 @@
 .contact-col p {
     max-width: 450px;
     line-height: 1.5;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .contact-col ul {
-    margin-bottom: 150px;
+    margin-bottom: 135px;
 }
 
 .contact-col ul li {
